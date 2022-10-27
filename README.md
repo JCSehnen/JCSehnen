@@ -3,8 +3,8 @@
 <p align="left"></p> -->
 <p align="center"> Apenas um desenvolvedor em desenvolvimento </p>
 
-<h3 align="left">Tecnologias do meu cotidiano:</h3>
-<p align="left">
+
+<p align="center">
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
