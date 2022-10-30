@@ -1,7 +1,7 @@
-<h1 align="center">Oláá, 😁 sejam bem vindos! Eu sou o José</h1>
+<h1 align="center">Olá sejam bem vindos! Eu sou o José</h1>
 <!-- <h3 align="left">Contato</h3>
 <p align="left"></p> -->
-<p align="center"> Apenas um desenvolvedor em desenvolvimento </p>
+<p align="center"> Apenas um desenvolvedor em desenvolvimento 😁</p>
 
 
 <p align="center">
