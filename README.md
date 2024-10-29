@@ -147,3 +147,10 @@
     />
   </a>
 </p>
+
+<div align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=JCSehnen&theme=github-dark&locale=pt_BR" alt="GitHub Streak" />
+  </a>
+</div>
+
